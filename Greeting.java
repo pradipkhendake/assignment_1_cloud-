@@ -7,7 +7,7 @@ public class Greeting {
         System.out.print("Enter your username: ");
         String username = scanner.nextLine();
         
-        System.out.println("Hello, " + username + "! Welcome to the repository.");
+        System.out.println("Hey there, Friend!");
         
         scanner.close();
     }
